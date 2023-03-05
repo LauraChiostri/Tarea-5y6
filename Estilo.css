@@ -1,0 +1,26 @@
+body {
+text-align: center;
+box-decoration-break: initial;
+ background-color:darkslategrey;
+ background-image: url("Logo.jpeg");
+ background-repeat: no-repeat;
+ background-size: 200px;
+ padding: 10%;
+
+}
+
+.header {
+
+        background-color: beige;
+        font-family:Freestyle Script;
+        font-size: xx-large;
+        border-color: overscroll-behavior-block ;
+}
+.box{
+    align-items: center;
+    width: 1150px;
+    height: 1000px;
+    border-radius: 5px;
+    margin-left: 40px;
+    
+  }

@@ -1,0 +1,52 @@
+header {
+background-color:black;
+background-image: url("fondo\ \ header.jpg");
+background-size: 300px;
+font-family:Freestyle Script;
+font-size: xx-large;
+border-color: overscroll-behavior-block ;
+color:black
+
+
+}
+
+body {
+background-color: darkslategrey; 
+background-image: url("Logo.jpeg");
+background-repeat: repeat;
+background-size: 50px;
+display: flexbox;
+
+
+}
+.content {
+    width: 90%;
+    margin: auto;
+    display: flex;
+
+}
+.elemento {
+
+   float: left;
+   width: 40%;
+   margin-left: 10px;
+    background-color: beige;
+}
+
+aside {
+   .box {
+    background-color: aquamarine;
+    text-align: cente;}
+}
+footer {
+       background-color: aliceblue;
+        color:darkslategrey;
+       text-align: center;
+       align-self: flex-end;
+       width: 100%;
+       height:auto;
+       
+    
+    
+  
+}
